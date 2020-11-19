@@ -1,6 +1,6 @@
 # Emotion_Detection
 
-Hi guys! Here I have made an Emotion Detection command line tool which classifies the input image into 7 emotion categories.
+I have made an Emotion Detection command line tool which classifies the input image into 7 emotion categories.
 This classifier model is trained on the fer2013 dataset and has a model accuracy of 67.7% . I hope i'll imporve this model accuracy with time and get back with a better model.
 In this repository,I have included various scripts which can be used to use this classifier. The different ways are as follows:
 
